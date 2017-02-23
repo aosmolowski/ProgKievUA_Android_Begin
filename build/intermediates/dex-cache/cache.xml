@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_04fa0a85b2ad9a4112ea6f4656e0e1832ed1d5b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3181395988a98cadef5cbb73c2409eeae0b1f437\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_e380216c4bba4c65d499f5d8d5e8bd68f0833e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d46a1fed5b1211c5f632421dcc819fc94cd01c8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_fbbbb0576fe2a2643de9e2c2069bf8594d4a366c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_4fc124bd47f123b16378a8df7dff671a78e413b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_ce518a02a50bfd90cfa360b0b35409aadbe7e54c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_c4fd7860e1e11f07299e17e774a119c9cb644542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ea2af34cb883eabfe1684dffbc17b97ab9297419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_11295e86ac8e3906f603559f9b7291147cdb6e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_992bf28db1956bbf5c7454171ea41081caa928e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_85abdaa90a6701147308c2dbf529266197fc4866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_6ea24a129a70c51f7c121e7539173fe0ae53bc68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_c8b6466f4adc941399af4f2cb4b13230279a0b93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_d24744bdbf810ac3f41f0ad5543a78c3c66aac5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_58eb16ba0ad1557fd5c93cb5c62c092104f4f9bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_79ed7633438650a9deab30a40cc78a3acfbe0b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_b3889d67570954f981f92e33f0acfc36a11679c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_5e489491c32c0d5003d26db1689d3066491c4018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_d20b1518f41ea2daa9ed9f35273039691d96ad01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_c69fd79e6c96b52999ddc4223ca3f0deadad0c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_64555c3a4ba12289e841490c7b91a78f978fe0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_93999363a64d22d31e00ba039635868559c015fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_1264d2f5833625ed9cf0af258050ffa1d289d995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_a29224738284400214b2b90e956e098996ff96a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_fd13d0522c8af96e02075243301b36e5c72f5193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_00d64602da8696d410f0561ed14181d200323f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_0fdf70b97c633edeb5eda6d5ea691072def4be8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_2b6f2a1f05c2699741880cdc30d5fe0ce72cbba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c17a92e5fe1660c2bea9a277125da334e3fd0e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="423a9d0f5a30e7d7323e6b6311f7b0bc87ce8b8d">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c4bf966c1924b9a365435028052a382b62f89db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_d0eea617a112c045aa68e557c0fe75882d0c9e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d1e490ffb41d3c5ca2c6660f466b899ae496355d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_af2944732baa69a89a62a02d26e9b426fd4b7a49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_96eb7ecb078e290f425a7891f3ec946d672ac1cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_f2154acfb1925a293159f2b7b60c38769b333f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3089a96ee171c857af274cc443b2b95fbf8fb57b">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f8b72c20723ac518d31f756a0ed1a7379d8a1b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_afa6e3fb4cb50a87b719d7cff82eec00649253e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_9f3f31721c989d03459fa2e94099a0643b605521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8676568a126a729dd3f7cb0b8343649b063c6a6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_9db4d08ea6235a7ee033f7b561b9ba50a552666a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_4d91ebe01c3fa3d9a673181a5105bec99551db93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_fe9ec72543816dd3e33b90e69a020c9f576aedf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_d8fb172f3065123481cc0c11072679b07a78fb8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_52d78608fb0e4c03a103d1975806582bbeaee1ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_94633ddb24ab2ebac5f17493a63404f20894b5c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c5e9ff1e64404e052f04f8f2b7c2803a951b367c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_c18a0ca9358de9db0730c8329988db0af0d78f97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_76a3a9690d6f7a01e5339cf6094f6a88abf66049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_55cb89cd0007e657a5b6ac555e225b4070971587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_133200b1b75281c2c89978ee9d1bb64144895d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_52039adf123a3372784a4914614e20ce2869616d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_324a72ce315a2f38f13e262b918b9fb30607cf16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_50be1da3b814fa7886af2615830a44afdda4df9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_6402d3cdf497e8585ddf142851480b02ba948f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_d12dc5315492c47690b6b92d3ef221392b520acb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a624c55a07ed5c30f3836d58303cfc5cfc4030ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_dca7f51b7c3ea790548064a7290f3a99d78ca3e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_4425c782b88e4ae90460d2256fe09fdc04689b27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_e5993c0837152261e1f3c7fd53b3f9f888f26f25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_cba335be81ee4093c5a147afe0b8e75909ba07c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_20e98654bebd879a865fa8e3d1d49a48141de3fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_ee2004e0d24456216735b37d4d1369e2f9c84b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_691e52cca0bf96c2b29721640c0b27e8c196b08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_afbb92e66638558e37ab2182e3574a2862ce9880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d9102e3e53e3f9754905a83fa09c375d1a789738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_bff470e3f2ef94ec752ac7a4ee33ed3e60965eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\_Education\_JA-8\_Projects\Android\__PKUa\PKUa_First\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_a54660ba722267dd7589ed3f08a9b6d856dbad80\classes.dex" />
+    </item>
+
+</items>
